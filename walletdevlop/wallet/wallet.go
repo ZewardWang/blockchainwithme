@@ -9,7 +9,7 @@ import (
 	"github.com/btcsuite/btcd/chaincfg"
 	"github.com/btcsuite/btcutil/hdkeychain"
 
-	"github.com/yekai1003/blockchainwithme/walletdevlop/hdkeystore"
+	"github.com/ZewardWang/blockchainwithme/walletdevlop/hdkeystore"
 
 	"github.com/howeyc/gopass"
 
