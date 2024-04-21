@@ -9,8 +9,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/yekai1003/blockchainwithme/walletdevlop/sol"
-	"github.com/yekai1003/blockchainwithme/walletdevlop/wallet"
+	"github.com/ZewardWang/blockchainwithme/walletdevlop/sol"
+	"github.com/ZewardWang/blockchainwithme/walletdevlop/wallet"
 
 	"github.com/ethereum/go-ethereum"
 	"github.com/ethereum/go-ethereum/accounts/abi/bind"
