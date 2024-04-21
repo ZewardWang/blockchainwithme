@@ -1,4 +1,4 @@
-module walletdevlop
+module github.com/ZewardWang/blockchainwithme/walletdevlop
 
 go 1.12
 
